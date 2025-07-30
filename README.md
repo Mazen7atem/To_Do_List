@@ -1,6 +1,6 @@
-# To Do List App (Frontend-Only Version)
-
-A simple and responsive To-Do List application built with HTML, CSS, and JavaScript (or React). No backend required—tasks are saved in your browser using localStorage.
+# To Do List App (React Version)
+react
+A simple and responsive To-Do List application built with **React**. No backend required—tasks are saved in your browser using localStorage.
 
 ## Features
 - Add new tasks
@@ -9,10 +9,12 @@ A simple and responsive To-Do List application built with HTML, CSS, and JavaScr
 - Mark tasks as completed or pending
 - Filter tasks (All / Completed / Pending)
 - Tasks are saved in browser (localStorage)
-- Responsive design (optional)
+- Responsive design
+- Built with React functional components and hooks
+- Clear code structure for easy customization
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React)
+- **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** None
 - **Database:** Browser localStorage
 
@@ -25,10 +27,17 @@ A simple and responsive To-Do List application built with HTML, CSS, and JavaScr
    ```bash
    cd To_Do_List
    ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
 ## Usage
-Simply open the `index.html` file in your web browser.
-
+Start the development server:
+```bash
+npm start
+```
+Then open [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
