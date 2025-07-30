@@ -1,6 +1,6 @@
-# To Do List App (React Version)
-react
-A simple and responsive To-Do List application built with **React**. No backend required—tasks are saved in your browser using localStorage.
+# To Do List App (Frontend-Only Version)
+
+A simple and responsive To-Do List application built with HTML, CSS, and JavaScript (or React). No backend required—tasks are saved in your browser using localStorage.
 
 ## Features
 - Add new tasks
